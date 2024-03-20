@@ -16,4 +16,5 @@
 - Java
 ### Contact:
 - E-mail: [exceedxo@gmail.com](mailto:exceedxo@gmail.com)
+- Twitter: [https://twitter.com/exceedxo](https://twitter.com/exceedxo)
 - Telegram: [https://t.me/exceedxo](https://t.me/exceedxo)
